@@ -6,6 +6,7 @@
   "engines": {
     "vscode": "^1.91.0"
   },
+  "publisher": "magma917",
   "categories": [
     "Themes"
   ],
@@ -17,5 +18,19 @@
         "path": "./themes/eyecare-soft-era-color-theme.json"
       }
     ]
+  }
+  "keywords": [
+      "eye",
+      "eyecare",
+      "health",
+      "green",
+      "soft",
+      "fresh",
+      "comfort"
+  ],
+  "homepage": "https://github.com/Li-Yan/vscode-theme-eyecare-soft-era",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Li-Yan/vscode-theme-eyecare-soft-era"
   }
 }
