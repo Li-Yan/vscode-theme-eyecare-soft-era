@@ -6,7 +6,7 @@
 <!-- code: https://github.com/aziz/tmTheme-Editor -->
 <!-- TODO:
 - markdown sync with other styles (like quotes matching strings, etc
-- 
+-
  -->
 <plist version="1.0">
 <dict>
@@ -39,7 +39,7 @@
 			<key>settings</key>
 			<dict>
 				<key>background</key>
-				<string>#F9F5F5</string>
+				<string>#c7edcc</string>
 				<key>caret</key>
 				<string>#eeaabe</string>
 				<key>foreground</key>
@@ -298,7 +298,7 @@
 			<key>name</key>
 			<string>Types</string>
 			<key>scope</key>
-			<string>entity.name.type, storage.type</string> 
+			<string>entity.name.type, storage.type</string>
 			<key>settings</key>
 			<dict>
 				<key>foreground</key>
@@ -502,7 +502,7 @@
 				<!-- <string>#98c4ba</string> -->
 				<!-- <string>#8ebbb0</string> -->
 				<!-- <string>#3b9191</string> -->
-				
+
 			</dict>
 		</dict>
 		<dict>
