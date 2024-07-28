@@ -2,7 +2,7 @@
   "name": "eyecare-soft-era",
   "displayName": "Eyecare Soft Era",
   "description": "Soft era theme with eye care background and environment",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "engines": {
     "vscode": "^1.91.0"
   },
