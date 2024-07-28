@@ -28,6 +28,7 @@
       "fresh",
       "comfort"
   ],
+  "icon": "icon.png",
   "homepage": "https://github.com/Li-Yan/vscode-theme-eyecare-soft-era",
   "repository": {
     "type": "git",
