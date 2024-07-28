@@ -1,0 +1,21 @@
+{
+  "name": "eyecare-soft-era",
+  "displayName": "Eyecare Soft Era",
+  "description": "Soft era theme with eye care background and environment",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.91.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "eyecare-soft-era",
+        "uiTheme": "vs",
+        "path": "./themes/eyecare-soft-era-color-theme.json"
+      }
+    ]
+  }
+}
